@@ -1,4 +1,3 @@
-### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=hertheim&theme=monokai&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
